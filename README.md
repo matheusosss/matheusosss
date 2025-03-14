@@ -10,6 +10,7 @@
 <a href="https://github.com/matheusosss">
 <img height="180em" src="https://github-readme-stats-kappa-nine-83.vercel.app/api?username=matheusosss&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats-kappa-nine-83.vercel.app/api/top-langs/?username=matheusosss&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="312em" src="https://roadmap.sh/card/wide/67d44f94c66b36c0000e101b?variant=dark&roadmaps=backend%2Cjava" alt="roadmap.sh"/>
 </div>
 
   ##
